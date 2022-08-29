@@ -3,7 +3,7 @@
 this is **bold**
 this is *italics*
 
-!{image title}(robot.jpg)
+![image title](robot.jpg)
 
 this line is part of a paragraph
 this line is also part of a paragraph
