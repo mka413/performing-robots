@@ -1,7 +1,6 @@
 # perorming-robots
 
-this is **bold**
-this is *italics*
+
 Robots: Asleep, Awake, Alone, and in Love.
 ROBOTS IN LOVE?
 In this chapter, the author explores the idea of love and relationships from a robot's perspective. The author begins by discussing the different stages of a relationship, from the initial attraction to the eventual decline. He argues that robots are capable of experiencing all of these stages, just like humans. However, they cannot experience the physical aspects of love, such as sex. The author then goes on to discuss the idea of loneliness. He argues that robots can feel loneliness, just like humans. However, they may not necessarily feel the same type of loneliness 
